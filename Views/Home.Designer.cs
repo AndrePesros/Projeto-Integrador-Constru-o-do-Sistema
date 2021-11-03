@@ -178,7 +178,7 @@ namespace Projeto_Integrador_Construção_do_Sistema
             // 
             // iconCurrentChildForm
             // 
-            this.iconCurrentChildForm.BackColor = System.Drawing.Color.Teal;
+            this.iconCurrentChildForm.BackColor = System.Drawing.Color.DarkCyan;
             this.iconCurrentChildForm.ForeColor = System.Drawing.Color.GhostWhite;
             this.iconCurrentChildForm.IconChar = FontAwesome.Sharp.IconChar.Home;
             this.iconCurrentChildForm.IconColor = System.Drawing.Color.GhostWhite;
